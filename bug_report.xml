@@ -1,1 +1,14 @@
 
+<?xml version="1.0" encoding="UTF-8" ?>
+<bug report>
+  <issue title>Button 'Products' is unclickable</issue title>
+  <priority>Low</priority>
+  <severity>Blocked</severity>
+  <environment>Google Chrome</environment>
+  <Steps>
+    <1_step>Open main page</1_step>
+    <2_step>Scroll down to site navigation</2_step>
+    <3_step>Click 'Platforms' button</3_step>
+  </Steps> 
+  <Excepted Result>Redirect to capital.com/cfd-trading-app</Excepted Result>
+</bug report>  
